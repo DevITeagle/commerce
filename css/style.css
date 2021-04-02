@@ -1295,7 +1295,7 @@ textarea {
 }
 
 ._no-webp .column-agencies2:after{
-  background: url(/img/icons/Agencies/dott_red.png) 0 0/100% no-repeat; }
+  background: url(../img/icons/Agencies/dott_red.png) 0 0/100% no-repeat; }
 
 .column-agencies2:after {
   content: "";
@@ -2167,7 +2167,7 @@ textarea {
 
 ._webp .column-slider__arrow-next:active{ background: url(../img/icons/Agencies/arrow_active.webp) 0 0 no-repeat; }
 
-._webp .column-agencies2:after{ background: url(/img/icons/Agencies/dott_red.webp) 0 0/100% no-repeat; }
+._webp .column-agencies2:after{ background: url(../img/icons/Agencies/dott_red.webp) 0 0/100% no-repeat; }
 
 @media (max-width: 1660px){
 
